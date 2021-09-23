@@ -187,7 +187,9 @@ sections:
     background_image_opacity: 98
 seo:
   title: Right In Your Mind
-  description: The preview of the Podcaster theme
+  description: >-
+    Right In Your Mind is a podcast exploring lessons learnt from changemakers
+    in mental health - including researchers, experts, founders and investors.
   extra:
     - name: 'og:type'
       value: website
