@@ -197,9 +197,6 @@ seo:
     - name: 'og:title'
       value: Right In Your Mind
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Podcaster theme
-      keyName: property
     - name: 'og:image'
       value: /images/Right In Your Mind-b459e7ca.png
       keyName: property
