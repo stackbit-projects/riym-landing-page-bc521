@@ -206,7 +206,10 @@ seo:
     - name: 'twitter:title'
       value: Right In Your Mind
     - name: 'twitter:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Right In Your Mind is a podcast exploring lessons learnt from
+        changemakers in mental health - including researchers, experts, founders
+        and investors.
     - name: 'twitter:image'
       value: /images/Right In Your Mind-d636ac15.png
       relativeUrl: true
