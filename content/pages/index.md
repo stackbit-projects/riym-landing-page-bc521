@@ -210,5 +210,12 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Right In Your Mind is a podcast exploring lessons learnt from
+        changemakers in mental health - including researchers, experts, founders
+        and investors.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
