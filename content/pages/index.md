@@ -195,7 +195,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: Right In Your Mind
       keyName: property
     - name: 'og:description'
       value: The preview of the Podcaster theme
