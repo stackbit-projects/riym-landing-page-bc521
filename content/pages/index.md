@@ -204,7 +204,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Right In Your Mind
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
