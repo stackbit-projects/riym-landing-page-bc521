@@ -208,7 +208,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/Right In Your Mind-d636ac15.png
       relativeUrl: true
     - name: 'og:description'
       value: >-
